@@ -1,6 +1,3 @@
-@@ -0,0 +1,123 @@
-import uuid
-
 import streamlit as st
 import random
 import time
